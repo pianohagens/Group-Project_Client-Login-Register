@@ -1,2 +1,2 @@
-# Group Project_FinalClient_By-Kristopher-Chambers-and-Piano-Hagens
+# Group Project_Client Login register
 03212016finalClient. 
